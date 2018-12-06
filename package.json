@@ -1,0 +1,37 @@
+{
+  "name": "react-native-swipe-cus",
+  "version": "1.0.0",
+  "description": "自定义滑动切换组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-swipe-cus.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "swiper",
+    "slide",
+    "banner",
+    "android",
+    "react-native-swiper",
+    "react-native-swipe-cus",
+    "ios",
+    "滑动",
+    "侧滑"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-swipe-cus/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-swipe-cus#readme"
+}
