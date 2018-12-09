@@ -5,7 +5,7 @@
 npm i --save react-native-swipe-cus
 
 ### 展示ui图
-![滑动展示图](http://i.imgur.com/zrsazAG.gif=300x)
+![滑动展示图](./showImg/show.gif)
 
 ### 使用
 ```javascript
